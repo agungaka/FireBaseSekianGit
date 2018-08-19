@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "908739827768",
+    "firebase_url": "https://fir-sekian.firebaseio.com",
+    "project_id": "fir-sekian",
+    "storage_bucket": "fir-sekian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908739827768:android:563e8eb54f2a4469",
+        "android_client_info": {
+          "package_name": "com.akaprod.agung.firebasesekian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908739827768-je9jgmcgumeb6vpm3imuvhspm9mj8ke5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akaprod.agung.firebasesekian",
+            "certificate_hash": "7d6f61ef397eca019f178264ec3e91904fac72b3"
+          }
+        },
+        {
+          "client_id": "908739827768-b4n6ie807i3ab55fppnt0ij5ikq134lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqunzq8jbNESeJeaxLrfAE2_Ae_eCq2h0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908739827768-b4n6ie807i3ab55fppnt0ij5ikq134lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
